@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "249666641303",
+    "project_id": "demodrive1",
+    "storage_bucket": "demodrive1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249666641303:android:8c9edf622a0e401d9378d2",
+        "android_client_info": {
+          "package_name": "com.example.googledrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249666641303-7aihvfvogb30crtkn9t6djiohipmtao0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googledrive",
+            "certificate_hash": "e98dedc9945760ee2bef6fd00bcbf2bae3fb40c6"
+          }
+        },
+        {
+          "client_id": "249666641303-765jmlou4t0mem33v04a92hqvt3uasmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEfWUVh50nDL7t09sbDfezkAsTU6jx_gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249666641303-765jmlou4t0mem33v04a92hqvt3uasmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
